@@ -25,19 +25,6 @@ npm run dev
 - ✨ **Анимации** на CSS
 - 🎯 **TypeScript** для надёжности
 
-## 📁 Структура проекта
-
-```
-doors-shop/
-├── app/
-│   ├── layout.tsx       # Корневой layout
-│   ├── page.tsx         # Главная страница
-│   └── globals.css      # Все стили
-├── package.json
-├── tsconfig.json
-└── next.config.js
-```
-
 ## 🛠️ Технологии
 
 - Next.js 14
