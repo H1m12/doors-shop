@@ -15,8 +15,6 @@ npm install
 npm run dev
 ```
 
-Открой **http://localhost:3000** — сайт работает! 🎉
-
 ## 📦 Что внутри
 
 - ⚡ **Next.js 14** с App Router
@@ -26,15 +24,6 @@ npm run dev
 - 📱 **Полностью адаптивный** дизайн
 - ✨ **Анимации** на CSS
 - 🎯 **TypeScript** для надёжности
-
-## 🌐 Деплой на Vercel (бесплатно)
-
-1. Зарегистрируйся на **[vercel.com](https://vercel.com)** через GitHub
-2. Создай репозиторий на GitHub и залей туда папку
-3. На Vercel: **Add New** → **Project** → выбери репо
-4. Нажми **Deploy** — через 2 минуты сайт онлайн!
-
-Получишь ссылку типа: `https://doors-shop.vercel.app`
 
 ## 📁 Структура проекта
 
